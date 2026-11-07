@@ -1,0 +1,7 @@
+file_path,file_name,media_type,label,target
+/home/amin/Projects/binaii/data/raw/sample/drowsy/sample_013.jpg,sample_013.jpg,image,drowsy,1
+/home/amin/Projects/binaii/data/raw/sample/awake/sample_011.jpg,sample_011.jpg,image,awake,0
+/home/amin/Projects/binaii/data/raw/sample/awake/sample_004.jpg,sample_004.jpg,image,awake,0
+/home/amin/Projects/binaii/data/raw/sample/drowsy/sample_006.jpg,sample_006.jpg,image,drowsy,1
+/home/amin/Projects/binaii/data/raw/sample/drowsy/sample_012.jpg,sample_012.jpg,image,drowsy,1
+/home/amin/Projects/binaii/data/raw/sample/awake/sample_009.jpg,sample_009.jpg,image,awake,0

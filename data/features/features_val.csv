@@ -1,0 +1,7 @@
+ear_left,ear_right,ear_avg,mar,pitch_ratio,blendshape_blink_l,blendshape_blink_r,blendshape_jaw_open,label,target,source_file
+0.235,0.2355,0.2352,0.6685,0.5261,0.1623,0.0688,0.0138,drowsy,1,sample_013.jpg
+0.4167,0.4324,0.4246,0.5779,0.5489,0.0016,0.0003,0.0897,awake,0,sample_011.jpg
+0.4167,0.4324,0.4246,0.5779,0.5489,0.0016,0.0003,0.0897,awake,0,sample_004.jpg
+0.235,0.2355,0.2352,0.6685,0.5261,0.1623,0.0688,0.0138,drowsy,1,sample_006.jpg
+0.235,0.2355,0.2352,0.6685,0.5261,0.1623,0.0688,0.0138,drowsy,1,sample_012.jpg
+0.4167,0.4324,0.4246,0.5779,0.5489,0.0016,0.0003,0.0897,awake,0,sample_009.jpg
